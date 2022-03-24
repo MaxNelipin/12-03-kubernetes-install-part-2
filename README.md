@@ -11,3 +11,7 @@ Ansible отработал успешно
 Работающие ноды и control plane
 
 ![img_1.png](img_1.png)
+
+Ectd на control plane
+
+![img_2.png](img_2.png)
